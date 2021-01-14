@@ -1,0 +1,26 @@
+table{
+	background-color: transparent;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-family: Source Sans Pro,Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	margin-bottom: 50px;
+}
+.th-1-Width{
+	width: 80px;
+}
+.th-2-Width{
+	padding-left: 10px;
+}
+table tbody tr td:nth-child(3){
+	padding-left: 10px;
+}
+table tr{
+	vertical-align: top;
+	text-align: left;
+	height: 60px;
+}
+table tbody tr:nth-child(1){
+	height: 30px;
+}
